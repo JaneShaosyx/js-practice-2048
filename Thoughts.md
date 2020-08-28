@@ -30,7 +30,7 @@
 
 
 
-####支持逻辑
+#### 支持逻辑
 
 + `getNumberBackgroundColor(number)`根据传入数字，返回对应数字格的颜色
 + `getNumberColor(number)`根据传入数字，返回对应数字的颜色
